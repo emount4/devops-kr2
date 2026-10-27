@@ -1,3 +1,4 @@
+# KR2: Domashev
 import os
 import socket
 
